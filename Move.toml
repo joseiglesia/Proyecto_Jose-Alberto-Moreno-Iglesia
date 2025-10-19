@@ -1,0 +1,10 @@
+[package]
+name = "SuiCollectibles"
+version = "0.0.1"
+authors = ["Tu Nombre <tu@email.com>"]
+
+[addresses]
+sui_collectibles = "0x0"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework" }
