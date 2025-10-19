@@ -16,7 +16,7 @@ Permite crear, transferir y administrar objetos coleccionables únicos en la blo
 
 ## Requisitos
 - Tener configurado el entorno de desarrollo de Sui.
-- Contar con tokens en Mainnet (solicítalos en el faucet oficial).
+- Contar con tokens en Mainnet.
 - Tener la CLI de Sui instalada y conectada a Mainnet.
 
 ## Despliegue
