@@ -40,5 +40,4 @@ sui client call --package <package_id>   --module collectibles   --function crea
 ```
 
 ## Autor
-Tu nombre aquí  
-Licencia MIT
+Jose Alberto Moreno Iglesia
